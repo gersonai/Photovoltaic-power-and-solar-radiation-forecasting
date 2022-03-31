@@ -2,7 +2,7 @@
 
 ```
 1- Put de dataset in the same folder as "pv_forcasting_2_3classes_onColab.ipynb" and "Sunsets.py"
-2- Name 3 classes classified data "trainval_phys_3calsses" and "trest_phys_3calsses" or change 
+2- Name your 3 classes data "trainval_phys_3calsses" and "trest_phys_3calsses" or change
 the files name in the notebook and make sure they are also in the dataset folder.
 ```
 
