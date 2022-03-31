@@ -5,7 +5,9 @@
 
 
 Note: Below my best hyper-parameters for the 3 class predictor:
-> batch_size = 256
-> optimizer = Adam
-> lr = 3e-6
-> epochs = 10
+```
+batch_size = 256
+optimizer = Adam
+lr = 3e-6
+epochs = 10
+```
