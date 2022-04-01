@@ -6,10 +6,23 @@
 the files name in the notebook and make sure they are also in the dataset folder.
 ```
 
-Note: Below my best hyper-parameters for the 3 class predictor:
+Note: Below my best hyper-parameters for the 3 class predictor training:
 ```
 batch_size = 256
 optimizer = Adam
 lr = 3e-6
-epochs = 10
+nb epochs = 10
+```
+
+## Models developped
+
+```
+Comming soon
+```
+
+
+## Results
+
+```
+Comming soon
 ```
