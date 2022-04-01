@@ -1,4 +1,4 @@
-# Photovoltaic-power-and-solar-radiation-forecasting
+# Photovoltaic power and solar radiation forecasting with sky images
 
 ```
 1- Put de dataset in the same folder as "pv_forcasting_2_3classes_onColab.ipynb" and "Sunsets.py"
